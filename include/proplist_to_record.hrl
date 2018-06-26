@@ -1,0 +1,1 @@
+-define(proplist_to_record(PropList, RecordName), proplist_to_record:convert(PropList, record_info(fields, RecordName), RecordName)).

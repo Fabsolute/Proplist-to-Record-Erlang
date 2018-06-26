@@ -1,0 +1,8 @@
+{application, 'proplist_to_record', [
+	{description, "proplist_to_record"},
+	{vsn, "0.1.0"},
+	{modules, ['proplist_to_record']},
+	{registered, []},
+	{applications, []},
+	{env, []}
+]}.
